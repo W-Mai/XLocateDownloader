@@ -1,5 +1,7 @@
 # XLocate Downloader
 
+![GitHub top language](https://img.shields.io/github/languages/top/W-Mai/XLocateDownloader?style=for-the-badge)
+
 ## ＳＴＡＴＵＳ提示信息
 
 |  状态       | 含义        |
