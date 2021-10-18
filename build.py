@@ -1,3 +1,8 @@
+# Copyright (c) 2021 W-Mai
+# 
+# This software is released under the MIT License.
+# https://opensource.org/licenses/MIT
+
 from PyInstaller.__main__ import run
 
 lib_path = [r'D:\Prog\Python38-64\lib\site-packages\PyQt6\Qt\bin',
